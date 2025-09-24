@@ -6,30 +6,31 @@ Este repositório contém **22 exercícios de lógica de programação** desenvo
 
 Cada exercício está em um arquivo separado:
 
+```plaintext
 atividades-javascript/
-├── ex01.js # Soma de A e B e comparação com C
-├── ex02.js # Verificação de par/ímpar e positivo/negativo
-├── ex03.js # Operações condicionais entre A e B
-├── ex04.js # Antecessor e sucessor
+├── ex01.js   // Soma de A e B e comparação com C
+├── ex02.js   // Verificação de par/ímpar e positivo/negativo
+├── ex03.js   // Operações condicionais entre A e B
+├── ex04.js   // Antecessor e sucessor
 ...
-├── ex22.js # Quociente e resto da divisão
+├── ex22.js   // Quociente e resto da divisão
+```
 
-shell
-Copiar código
-
-## 🚀 Como Executar
+🚀 Como Executar
 
 Você pode executar cada arquivo de duas formas:
 
-### 1. Usando Node.js
-```bash
+```plaintext
+1. Usando Node.js
 # No terminal, dentro da pasta do projeto:
 node ex01.js
+```
+
 2. No Navegador
+
 Crie um arquivo index.html e importe os scripts que deseja rodar:
 
-html
-Copiar código
+```plaintext
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -40,9 +41,12 @@ Copiar código
   <script src="ex01.js"></script>
 </body>
 </html>
+```
+
 Abra o arquivo no navegador e veja os resultados no console (F12 → Aba Console).
 
 📘 Exercícios Resolvidos
+
 Soma de A e B e comparação com C
 
 Número par/ímpar e positivo/negativo
@@ -86,6 +90,3 @@ Tabuada de um número escolhido
 Número aleatório entre 0 e 100
 
 Quociente e resto da divisão
-
-✨ Objetivo
-O objetivo deste repositório é servir como prática para quem está iniciando em JavaScript e deseja fortalecer sua lógica de programação.
