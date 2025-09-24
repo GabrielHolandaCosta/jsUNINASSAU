@@ -47,46 +47,25 @@ Abra o arquivo no navegador e veja os resultados no console (F12 → Aba Console
 
 📘 Exercícios Resolvidos
 
-Soma de A e B e comparação com C
-
-Número par/ímpar e positivo/negativo
-
-Operações condicionais entre A e B
-
-Antecessor e sucessor
-
-Cálculo de salários mínimos
-
-Reajuste de 5%
-
-Valores booleanos (verdadeiro/falso)
-
-Números em ordem decrescente
-
-Cálculo do IMC e classificação
-
-Média de 3 notas
-
-Média de 4 notas + aprovação/reprovação
-
-Condições de pagamento de um produto
-
-Nome e maioridade
-
-Troca de valores entre A e B
-
-Cálculo de idade em anos, meses e dias
-
-Verificação de tipo de triângulo
-
-Conversão Fahrenheit → Celsius
-
-Crescimento de Francisco e Sara
-
-Tabuada de 1 até 10
-
-Tabuada de um número escolhido
-
-Número aleatório entre 0 e 100
-
-Quociente e resto da divisão
+1. Soma de A e B e comparação com C
+2. Número par/ímpar e positivo/negativo
+3. Operações condicionais entre A e B
+4. Antecessor e sucessor
+5. Cálculo de salários mínimos
+6. Reajuste de 5%
+7. Valores booleanos (verdadeiro/falso)
+8. Números em ordem decrescente
+9. Cálculo do IMC e classificação
+10. Média de 3 notas
+11. Média de 4 notas + aprovação/reprovação
+12. Condições de pagamento de um produto
+13. Nome e maioridade
+14. Troca de valores entre A e B
+15. Cálculo de idade em anos, meses e dias
+16. Verificação de tipo de triângulo
+17. Conversão Fahrenheit → Celsius
+18. Crescimento de Francisco e Sara
+19. Tabuada de 1 até 10
+20. Tabuada de um número escolhido
+21. Número aleatório entre 0 e 100
+22. Quociente e resto da divisão
