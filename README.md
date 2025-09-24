@@ -1,6 +1,7 @@
 # 📝 Atividades em JavaScript
 
 Este repositório contém **22 exercícios de lógica de programação** desenvolvidos em **JavaScript**, propostos na disciplina de **Código de Alta Performance Mobile** da **UNINASSAU**.  
+
 O objetivo principal é **fixar conceitos fundamentais da linguagem**, praticando lógica de programação, estruturas condicionais, laços e operações matemáticas.
 
 ## 📂 Estrutura do Projeto
